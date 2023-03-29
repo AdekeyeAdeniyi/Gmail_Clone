@@ -1,0 +1,9 @@
+.app {
+    height: 100vh;
+    background-color: #F5F8FC;
+}
+
+.app-body {
+    display: flex;
+    height: 100vh;
+}
